@@ -1,2 +1,2 @@
 # hello-world
-first project
+this is next step in learning github
